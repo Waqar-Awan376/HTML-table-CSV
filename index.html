@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+  <meta name="generator" content="Hugo 0.72.0">
+  <title>Landing page</title>
+
+  <link rel="canonical" href="https://v5.getbootstrap.com/docs/5.0/examples/navbar-static/">
+
+  <!-- Bootstrap core CSS -->
+  <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="jquery.js"></script>
+
+  <style>
+    .bd-placeholder-img {
+      font-size: 1.125rem;
+      text-anchor: middle;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
+
+    @media (min-width: 768px) {
+      .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+      }
+    }
+  </style>
+
+
+  <!-- Custom styles for this template -->
+  <link href="navbar-top.css" rel="stylesheet">
+
+  <script>
+    $(document).ready(function () {
+      $.ajax({
+        url: 'table_list.csv',
+        dataType: 'text',
+        success: function (file) {
+          let fileDataArray = file.split(/\r?\n|\r/);
+          let tableHtml = "";
+          for (let i = 0; i < fileDataArray.length; i++) {
+            let colDataArray = fileDataArray[i].split(",");
+            tableHtml += "<tr>";
+            for (let j = 0; j < colDataArray.length; j++) {
+              if (i == 0 || j == 0) {
+                tableHtml += "<th>" + colDataArray[j] + "</th>";
+              }
+              else {
+                tableHtml += "<td>" + colDataArray[j] + "</td>";
+              }
+            }
+            tableHtml += "</tr>";
+          }
+          $("#table").html(tableHtml);
+        }
+      });
+    });
+  </script>
+</head>
+
+<body>
+  <!-- <script src="http://d3js.org/d3.v3.min.js"></script> -->
+  <script src="d3.min.js?v=3.2.8"></script>
+
+  <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="../index.html">Site Name</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
+        aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav mr-auto mb-2 mb-md-0">
+          <li class="nav-item active">
+            <a class="nav-link" aria-current="page" href="../index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="../tutorials.html">Section</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <main class="container">
+    <div class="bg-light p-5 rounded">
+      <h2>Names <span class="badge bg-dark">Example</span></h1>
+        <p class="lead">Example list. </p>
+    </div>
+
+    <div class="p-5 rounded">
+      <h2>Sorted by first name name</h1>
+
+        <table id="table" class="table table-striped">
+
+        </table>
+
+        <br /><br />
+
+
+
+        <script type="text/javascript" charset="utf-8">
+
+          d3.text("html_table_data.csv", function (data) {
+            var parsedCSV = d3.csv.parseRows(data);
+
+            var container = d3.select("body")
+              .append("table")
+
+              .selectAll("tr")
+              .data(parsedCSV).enter()
+              .append("tr")
+
+              .selectAll("td")
+              .data(function (d) { return d; }).enter()
+              .append("td")
+              .text(function (d) { return d; });
+          });
+        </script>
+
+
+    </div>
+
+  </main>
+  <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>

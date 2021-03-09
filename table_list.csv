@@ -1,0 +1,137 @@
+industry_id,industry_name,file_name,main_paragraph
+1,Advertising Agencies,advertising-agencies,This is super cool that the text is replaced withAdvertising Agenciesand this can continue with advertising-agencies
+2,Aerospace & Defense,aerospace-and-defense,This is super cool that the text is replaced withAerospace & Defenseand this can continue with aerospace-and-defense
+3,Agricultural Inputs,agricultural-inputs,This is super cool that the text is replaced withAgricultural Inputsand this can continue with agricultural-inputs
+4,Airlines,airlines,This is super cool that the text is replaced withAirlinesand this can continue with airlines
+5,Airports & Air Services,airports-and-air-services,This is super cool that the text is replaced withAirports & Air Servicesand this can continue with airports-and-air-services
+6,Aluminum,aluminum,This is super cool that the text is replaced withAluminumand this can continue with aluminum
+7,Apparel Manufacturing,apparel-manufacturing,This is super cool that the text is replaced withApparel Manufacturingand this can continue with apparel-manufacturing
+8,Apparel Retail,apparel-retail,This is super cool that the text is replaced withApparel Retailand this can continue with apparel-retail
+9,Asset Management,asset-management,This is super cool that the text is replaced withAsset Managementand this can continue with asset-management
+10,Auto & Truck Dealerships,auto-and-truck-dealerships,This is super cool that the text is replaced withAuto & Truck Dealershipsand this can continue with auto-and-truck-dealerships
+11,Auto Manufacturers,auto-manufacturers,This is super cool that the text is replaced withAuto Manufacturersand this can continue with auto-manufacturers
+12,Auto Parts,auto-parts,This is super cool that the text is replaced withAuto Partsand this can continue with auto-parts
+13,Banks - Diversified,banks-diversified,This is super cool that the text is replaced withBanks - Diversifiedand this can continue with banks-diversified
+14,Banks - Regional,banks-regional,This is super cool that the text is replaced withBanks - Regionaland this can continue with banks-regional
+15,Beverages - Non-Alcoholic,beverages-non-alcoholic,This is super cool that the text is replaced withBeverages - Non-Alcoholicand this can continue with beverages-non-alcoholic
+16,Beverages - Wineries & Distilleries,beverages-wineries-and-distilleries,This is super cool that the text is replaced withBeverages - Wineries & Distilleriesand this can continue with beverages-wineries-and-distilleries
+17,Biotechnology,biotechnology,This is super cool that the text is replaced withBiotechnologyand this can continue with biotechnology
+18,Broadcasting,broadcasting,This is super cool that the text is replaced withBroadcastingand this can continue with broadcasting
+19,Building Materials,building-materials,This is super cool that the text is replaced withBuilding Materialsand this can continue with building-materials
+20,Building Products & Equipment,building-products-and-equipment,This is super cool that the text is replaced withBuilding Products & Equipmentand this can continue with building-products-and-equipment
+21,Business Equipment & Supplies,business-equipment-and-supplies,This is super cool that the text is replaced withBusiness Equipment & Suppliesand this can continue with business-equipment-and-supplies
+22,Capital Markets,capital-markets,This is super cool that the text is replaced withCapital Marketsand this can continue with capital-markets
+23,Chemicals,chemicals,This is super cool that the text is replaced withChemicalsand this can continue with chemicals
+24,Coking Coal,coking-coal,This is super cool that the text is replaced withCoking Coaland this can continue with coking-coal
+25,Communication Equipment,communication-equipment,This is super cool that the text is replaced withCommunication Equipmentand this can continue with communication-equipment
+26,Computer Hardware,computer-hardware,This is super cool that the text is replaced withComputer Hardwareand this can continue with computer-hardware
+27,Confectioners,confectioners,This is super cool that the text is replaced withConfectionersand this can continue with confectioners
+28,Conglomerates,conglomerates,This is super cool that the text is replaced withConglomeratesand this can continue with conglomerates
+29,Consulting Services,consulting-services,This is super cool that the text is replaced withConsulting Servicesand this can continue with consulting-services
+30,Consumer Electronics,consumer-electronics,This is super cool that the text is replaced withConsumer Electronicsand this can continue with consumer-electronics
+31,Credit Services,credit-services,This is super cool that the text is replaced withCredit Servicesand this can continue with credit-services
+32,Diagnostics & Research,diagnostics-and-research,This is super cool that the text is replaced withDiagnostics & Researchand this can continue with diagnostics-and-research
+33,Discount Stores,discount-stores,This is super cool that the text is replaced withDiscount Storesand this can continue with discount-stores
+34,Drug Manufacturers - General,drug-manufactureres-general,This is super cool that the text is replaced withDrug Manufacturers - Generaland this can continue with drug-manufactureres-general
+35,Drug Manufacturers - Specialty & Generic,drug-manufacturers-specialty-and-generic,This is super cool that the text is replaced withDrug Manufacturers - Specialty & Genericand this can continue with drug-manufacturers-specialty-and-generic
+36,Education & Training Services,education-and-training-services,This is super cool that the text is replaced withEducation & Training Servicesand this can continue with education-and-training-services
+37,Electrical Equipment & Parts,electrical-equipment-and-parts,This is super cool that the text is replaced withElectrical Equipment & Partsand this can continue with electrical-equipment-and-parts
+38,Electronic Components,electronic-components,This is super cool that the text is replaced withElectronic Componentsand this can continue with electronic-components
+39,Electronic Gaming & Multimedia,electronic-gaming-and-multimedia,This is super cool that the text is replaced withElectronic Gaming & Multimediaand this can continue with electronic-gaming-and-multimedia
+40,Electronics & Computer Distribution,electronics-and-computer-distribution,This is super cool that the text is replaced withElectronics & Computer Distributionand this can continue with electronics-and-computer-distribution
+41,Engineering & Construction,engineering-and-construction,This is super cool that the text is replaced withEngineering & Constructionand this can continue with engineering-and-construction
+42,Entertainment,entertainment,This is super cool that the text is replaced withEntertainmentand this can continue with entertainment
+43,Farm & Heavy Construction Machinery,farm-and-heavy-construction-machinery,This is super cool that the text is replaced withFarm & Heavy Construction Machineryand this can continue with farm-and-heavy-construction-machinery
+44,Farm Products,farm-products,This is super cool that the text is replaced withFarm Productsand this can continue with farm-products
+45,Financial Conglomerates,financial-conglomerates,This is super cool that the text is replaced withFinancial Conglomeratesand this can continue with financial-conglomerates
+46,Financial Data & Stock Exchanges,financial-data-stock-exchanges,This is super cool that the text is replaced withFinancial Data & Stock Exchangesand this can continue with financial-data-stock-exchanges
+47,Food Distribution,food-distribution,This is super cool that the text is replaced withFood Distributionand this can continue with food-distribution
+48,Footwear & Accessories,footwear-and-accessories,This is super cool that the text is replaced withFootwear & Accessoriesand this can continue with footwear-and-accessories
+49,Furnishings Fixtures & Appliances,furnishings-fixtures-and-appliances,This is super cool that the text is replaced withFurnishings Fixtures & Appliancesand this can continue with furnishings-fixtures-and-appliances
+50,Gambling,gambling,This is super cool that the text is replaced withGamblingand this can continue with gambling
+51,Gold,gold,This is super cool that the text is replaced withGoldand this can continue with gold
+52,Grocery Stores,grocery-stores,This is super cool that the text is replaced withGrocery Storesand this can continue with grocery-stores
+53,Health Information Services,health-information-services,This is super cool that the text is replaced withHealth Information Servicesand this can continue with health-information-services
+54,Healthcare Plans,healthcare-plans,This is super cool that the text is replaced withHealthcare Plansand this can continue with healthcare-plans
+55,Home Improvement Retail,home-improvement-retail,This is super cool that the text is replaced withHome Improvement Retailand this can continue with home-improvement-retail
+56,Household & Personal Products,household-and-personal-products,This is super cool that the text is replaced withHousehold & Personal Productsand this can continue with household-and-personal-products
+57,Industrial Distribution,industrial-distribution,This is super cool that the text is replaced withIndustrial Distributionand this can continue with industrial-distribution
+58,Information Technology Services,information-technology-services,This is super cool that the text is replaced withInformation Technology Servicesand this can continue with information-technology-services
+59,Insurance - Diversified,insurance-diversified,This is super cool that the text is replaced withInsurance - Diversifiedand this can continue with insurance-diversified
+60,Insurance - Life,insurance-life,This is super cool that the text is replaced withInsurance - Lifeand this can continue with insurance-life
+61,Insurance - Property & Casualty,insurance-property-and-casualty,This is super cool that the text is replaced withInsurance - Property & Casualtyand this can continue with insurance-property-and-casualty
+62,Insurance - Reinsurance,insurance-reinsurance,This is super cool that the text is replaced withInsurance - Reinsuranceand this can continue with insurance-reinsurance
+63,Insurance - Specialty,insurance-specialty,This is super cool that the text is replaced withInsurance - Specialtyand this can continue with insurance-specialty
+64,Insurance Brokers,insurance-brokers,This is super cool that the text is replaced withInsurance Brokersand this can continue with insurance-brokers
+65,Integrated Freight & Logistics,integrated-freight-and-logistics,This is super cool that the text is replaced withIntegrated Freight & Logisticsand this can continue with integrated-freight-and-logistics
+66,Internet Content & Information,internet-content-and-information,This is super cool that the text is replaced withInternet Content & Informationand this can continue with internet-content-and-information
+67,Internet Retail,internet-retail,This is super cool that the text is replaced withInternet Retailand this can continue with internet-retail
+68,Leisure,leisure,This is super cool that the text is replaced withLeisureand this can continue with leisure
+69,Lodging,lodging,This is super cool that the text is replaced withLodgingand this can continue with lodging
+70,Lumber & Wood Production,lumber-and-wood-production,This is super cool that the text is replaced withLumber & Wood Productionand this can continue with lumber-and-wood-production
+71,Luxury Goods,luxury-goods,This is super cool that the text is replaced withLuxury Goodsand this can continue with luxury-goods
+72,Marine Shipping,marine-shipping,This is super cool that the text is replaced withMarine Shippingand this can continue with marine-shipping
+73,Medical Care Facilities,medical-care-facilities,This is super cool that the text is replaced withMedical Care Facilitiesand this can continue with medical-care-facilities
+74,Medical Devices,medial-devices,This is super cool that the text is replaced withMedical Devicesand this can continue with medial-devices
+75,Medical Distribution,medical-distribution,This is super cool that the text is replaced withMedical Distributionand this can continue with medical-distribution
+76,Medical Instruments & Supplies,medical-instruments-and-supplies,This is super cool that the text is replaced withMedical Instruments & Suppliesand this can continue with medical-instruments-and-supplies
+77,Metal Fabrication,metail-fabrication,This is super cool that the text is replaced withMetal Fabricationand this can continue with metail-fabrication
+78,Mortgage Finance,mortgage-finance,This is super cool that the text is replaced withMortgage Financeand this can continue with mortgage-finance
+79,Oil & Gas Drilling,oil-and-gas-drilling,This is super cool that the text is replaced withOil & Gas Drillingand this can continue with oil-and-gas-drilling
+80,Oil & Gas E&P,oil-and-gas-e-and-p,This is super cool that the text is replaced withOil & Gas E&Pand this can continue with oil-and-gas-e-and-p
+81,Oil & Gas Equipment & Services,oil-and-gas-equipment-and-services,This is super cool that the text is replaced withOil & Gas Equipment & Servicesand this can continue with oil-and-gas-equipment-and-services
+82,Oil & Gas Midstream,oil-and-gas-midstream,This is super cool that the text is replaced withOil & Gas Midstreamand this can continue with oil-and-gas-midstream
+83,Oil & Gas Refining & Marketing,oil-and-gas-refining-and-marketing,This is super cool that the text is replaced withOil & Gas Refining & Marketingand this can continue with oil-and-gas-refining-and-marketing
+84,Other Industrial Metals & Mining,other-industrial-metals-and-mining,This is super cool that the text is replaced withOther Industrial Metals & Miningand this can continue with other-industrial-metals-and-mining
+85,Other Precious Metals & Mining,other-precious-metals-and-mining,This is super cool that the text is replaced withOther Precious Metals & Miningand this can continue with other-precious-metals-and-mining
+86,Packaged Foods,packaged-foods,This is super cool that the text is replaced withPackaged Foodsand this can continue with packaged-foods
+87,Packaging & Containers,packaging-and-containers,This is super cool that the text is replaced withPackaging & Containersand this can continue with packaging-and-containers
+88,Paper & Paper Products,paper-and-paper-products,This is super cool that the text is replaced withPaper & Paper Productsand this can continue with paper-and-paper-products
+89,Personal Services,personal-services,This is super cool that the text is replaced withPersonal Servicesand this can continue with personal-services
+90,Pharmaceutical Retailers,pharmaceutical-retailers,This is super cool that the text is replaced withPharmaceutical Retailersand this can continue with pharmaceutical-retailers
+91,Pollution & Treatment Controls,pollution-and-treatment-controls,This is super cool that the text is replaced withPollution & Treatment Controlsand this can continue with pollution-and-treatment-controls
+92,Publishing,publishing,This is super cool that the text is replaced withPublishingand this can continue with publishing
+93,Railroads,railroads,This is super cool that the text is replaced withRailroadsand this can continue with railroads
+94,Real Estate - Development,rel-estate-development,This is super cool that the text is replaced withReal Estate - Developmentand this can continue with rel-estate-development
+95,Real Estate - Diversified,real-estate-diversified,This is super cool that the text is replaced withReal Estate - Diversifiedand this can continue with real-estate-diversified
+96,Real Estate Services,real-estate-services,This is super cool that the text is replaced withReal Estate Servicesand this can continue with real-estate-services
+97,Recreational Vehicles,recreational-vehicles,This is super cool that the text is replaced withRecreational Vehiclesand this can continue with recreational-vehicles
+98,REIT - Diversified,reit-diversified,This is super cool that the text is replaced withREIT - Diversifiedand this can continue with reit-diversified
+99,REIT - Healthcare Facilities,reit-healthcare-facilities,This is super cool that the text is replaced withREIT - Healthcare Facilitiesand this can continue with reit-healthcare-facilities
+100,REIT - Hotel & Motel,reit-hotel-and-motel,This is super cool that the text is replaced withREIT - Hotel & Moteland this can continue with reit-hotel-and-motel
+101,REIT - Industrial,reit-industrial,This is super cool that the text is replaced withREIT - Industrialand this can continue with reit-industrial
+102,REIT - Mortgage,reit-mortgage,This is super cool that the text is replaced withREIT - Mortgageand this can continue with reit-mortgage
+103,REIT - Office,reit-office,This is super cool that the text is replaced withREIT - Officeand this can continue with reit-office
+104,REIT - Retail,reit-retail,This is super cool that the text is replaced withREIT - Retailand this can continue with reit-retail
+105,REIT - Specialty,reit-specialty,This is super cool that the text is replaced withREIT - Specialtyand this can continue with reit-specialty
+106,Rental & Leasing Services,rental-and-leasing-services,This is super cool that the text is replaced withRental & Leasing Servicesand this can continue with rental-and-leasing-services
+107,Residential Construction,residential-construction,This is super cool that the text is replaced withResidential Constructionand this can continue with residential-construction
+108,Resorts & Casinos,resorts-and-casinos,This is super cool that the text is replaced withResorts & Casinosand this can continue with resorts-and-casinos
+109,Restaurants,restaurants,This is super cool that the text is replaced withRestaurantsand this can continue with restaurants
+110,Scientific & Technical Instruments,scientific-and-technical-instruments,This is super cool that the text is replaced withScientific & Technical Instrumentsand this can continue with scientific-and-technical-instruments
+111,Security & Protection Services,security-and-protection-services,This is super cool that the text is replaced withSecurity & Protection Servicesand this can continue with security-and-protection-services
+112,Semiconductor Equipment & Materials,semiconductor-equipment-and-materials,This is super cool that the text is replaced withSemiconductor Equipment & Materialsand this can continue with semiconductor-equipment-and-materials
+113,Semiconductors,semiconductors,This is super cool that the text is replaced withSemiconductorsand this can continue with semiconductors
+114,Shell Companies,shell-companies,This is super cool that the text is replaced withShell Companiesand this can continue with shell-companies
+115,Silver,silver,This is super cool that the text is replaced withSilverand this can continue with silver
+116,Software - Application,software-application,This is super cool that the text is replaced withSoftware - Applicationand this can continue with software-application
+117,Software - Infrastructure,software-infrustructure,This is super cool that the text is replaced withSoftware - Infrastructureand this can continue with software-infrustructure
+118,Solar,solar,This is super cool that the text is replaced withSolarand this can continue with solar
+119,Specialty Business Services,specialty-business-services,This is super cool that the text is replaced withSpecialty Business Servicesand this can continue with specialty-business-services
+120,Specialty Chemicals,specialty-chemicals,This is super cool that the text is replaced withSpecialty Chemicalsand this can continue with specialty-chemicals
+121,Specialty Industrial Machinery,specialty-industrial-machinery,This is super cool that the text is replaced withSpecialty Industrial Machineryand this can continue with specialty-industrial-machinery
+122,Specialty Retail,specialty-retail,This is super cool that the text is replaced withSpecialty Retailand this can continue with specialty-retail
+123,Staffing & Employment Services,staffing-and-employment-services,This is super cool that the text is replaced withStaffing & Employment Servicesand this can continue with staffing-and-employment-services
+124,Steel,steel,This is super cool that the text is replaced withSteeland this can continue with steel
+125,Telecom Services,telecom-services,This is super cool that the text is replaced withTelecom Servicesand this can continue with telecom-services
+126,Textile Manufacturing,textile-manufacturing,This is super cool that the text is replaced withTextile Manufacturingand this can continue with textile-manufacturing
+127,Thermal Coal,thermal-coal,This is super cool that the text is replaced withThermal Coaland this can continue with thermal-coal
+128,Tools & Accessories,tools-and-accessories,This is super cool that the text is replaced withTools & Accessoriesand this can continue with tools-and-accessories
+129,Travel Services,travel-services,This is super cool that the text is replaced withTravel Servicesand this can continue with travel-services
+130,Trucking,trucking,This is super cool that the text is replaced withTruckingand this can continue with trucking
+131,Utilities - Diversified,utilities-diversified,This is super cool that the text is replaced withUtilities - Diversifiedand this can continue with utilities-diversified
+132,Utilities - Regulated Electric,utilities-regulated-electric,This is super cool that the text is replaced withUtilities - Regulated Electricand this can continue with utilities-regulated-electric
+133,Utilities - Regulated Gas,utilities-regulated-gas,This is super cool that the text is replaced withUtilities - Regulated Gasand this can continue with utilities-regulated-gas
+134,Utilities - Regulated Water,utilities-regulated-water,This is super cool that the text is replaced withUtilities - Regulated Waterand this can continue with utilities-regulated-water
+135,Utilities - Renewable,utilities-renewable,This is super cool that the text is replaced withUtilities - Renewableand this can continue with utilities-renewable
+136,Waste Management,waste-management,This is super cool that the text is replaced withWaste Managementand this can continue with waste-management
